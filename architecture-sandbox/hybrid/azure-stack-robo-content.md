@@ -118,7 +118,7 @@ Security considerations include:
 - [Azure Stack HCI advanced security][azs-hci-advanced-security]. Apply Microsoft security baselines to Azure Stack HCI clusters and their Windows Server workloads by using Active Directory Domain Services (AD DS) with Group Policy. You can use [Microsoft Advanced Threat Analytics (ATA)][ms-ata] to detect and remediate cyber threats targeting AD DS domain controllers providing authentication services to Azure Stack HCI clusters and their Windows Server workloads.
 
 [architectural-diagram]: images/azure_stack_robo.png
-[architectural-diagram-visio-source]: https://archcenter.blob.core.windows.net/cdn/azure_stack_robo.vsdx
+[architectural-diagram-visio-source]: https://arch-center.azureedge.net/azure_stack_robo.vsdx
 [azure-well-architected-framerwork]: ../framework/index.md
 [azs-hci]: /azure-stack/hci/overview
 [azure-arc]: /azure/azure-arc/overview
